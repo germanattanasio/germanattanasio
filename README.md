@@ -1,8 +1,7 @@
 # German Attanasio
 ### CTO & software dev w/ expertise in distributed apps, microservices, cloud, & container orchestration.
 
-⤷ I am a highly skilled software engineer with extensive experience building and maintaining distributed applications. With a solid software development and architecture background, I can lead teams to deliver robust and scalable systems. My expertise includes distributed sy
-
+⤷ I am a highly skilled software engineer with extensive experience building and maintaining distributed applications. With a solid software development and architecture background, I can lead teams to deliver robust and scalable systems.
   
 
 ⚐ Based in New York
